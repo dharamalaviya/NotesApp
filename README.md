@@ -18,7 +18,7 @@
 * Update existing Notes
 * Delete Notes
 ### .gif
-
+![5g7fea](https://user-images.githubusercontent.com/59638518/125265203-3b680c80-e322-11eb-8ab7-ab0b6084c6e6.gif)
 ### Screenshot
 ![1](https://user-images.githubusercontent.com/59638518/125264165-40788c00-e321-11eb-8382-bffa1cb395d5.png)
 ![2](https://user-images.githubusercontent.com/59638518/125264185-44a4a980-e321-11eb-91e8-85902501694b.png)
